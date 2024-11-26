@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,        
+    "moduleResolution": "Node16",
+    "module": "Node16", 
+    "types": ["cypress-xpath" ,"cypress"] 
+  },
+  "include": ["**/*.*"]
+}
